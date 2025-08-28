@@ -884,6 +884,16 @@ function copyStaticFiles(config) {
         console.error('Error copying script.js:', e);
     }
 
+    // 复制CNAME文件（如果存在）
+    try {
+        if (fs.existsSync('CNAME')) {
+            fs.copyFileSync('CNAME', 'dist/CNAME');
+            console.log('CNAME file copied to dist directory');
+        }
+    } catch (e) {
+        console.error('Error copying CNAME:', e);
+    }
+
     // 如果配置了favicon，确保文件存在并复制
     if (config.site.favicon) {
         try {
