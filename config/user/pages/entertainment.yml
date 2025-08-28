@@ -1,0 +1,66 @@
+title: 娱乐
+subtitle: 视频、音乐、游戏一站式娱乐平台
+
+# 指定使用的模板文件名，现有页面模板可见templates\pages
+template: articles
+
+categories:
+  - name: 视频
+    icon: fas fa-video
+    sites:
+      - name: 哔哩哔哩
+        icon: fab fa-bilibili
+        description: 哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+        url: "https://www.bilibili.com"
+      - name: 抖音
+        icon: fab fa-tiktok
+        description: 记录美好生活
+        url: "https://www.douyin.com"
+      - name: 腾讯视频
+        icon: fas fa-play-circle
+        description: 中国领先的在线视频媒体平台
+        url: "https://v.qq.com"
+      - name: 优酷视频
+        icon: fas fa-film
+        description: 这世界很酷
+        url: "https://www.youku.com"
+      - name: 爱奇艺
+        icon: fas fa-tv
+        description: 悦享品质
+        url: "https://www.iqiyi.com"
+      - name: YouTube
+        icon: fab fa-youtube
+        description: 全球最大的视频分享平台
+        url: "https://www.youtube.com"
+  
+  - name: 音乐
+    icon: fas fa-music
+    sites:
+      - name: Spotify
+        icon: fab fa-spotify
+        description: 聆听世界的声音
+        url: "https://open.spotify.com"
+      - name: 网易云音乐
+        icon: fas fa-cloud
+        description: 音乐的力量
+        url: "https://music.163.com"
+      - name: 酷狗音乐
+        icon: fas fa-headphones
+        description: 就是歌多
+        url: "https://www.kugou.com"
+  
+  - name: 游戏
+    icon: fas fa-gamepad
+    sites:
+      - name: EA
+        icon: fas fa-dice
+        description: Electronic Arts 游戏平台
+        url: "https://www.ea.com"
+      - name: Epic Games
+        icon: fas fa-rocket
+        description: Epic Games Store
+        url: "https://store.epicgames.com"
+      - name: Steam
+        icon: fab fa-steam
+        description: 全球最大的数字游戏发行平台
+        url: "https://store.steampowered.com"

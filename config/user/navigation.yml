@@ -8,6 +8,9 @@
 - name: 文章
   icon: fas fa-book
   id: articles
+- name: 娱乐
+  icon: fas fa-gamepad
+  id: entertainment
 - name: 项目
   icon: fas fa-project-diagram
   id: projects 

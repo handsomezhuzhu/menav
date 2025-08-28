@@ -8,30 +8,15 @@ categories:
   - name: 最新文章
     icon: fas fa-pen
     sites:
-      - name: Vue3最佳实践
-        icon: fab fa-vuejs
-        description: Vue3组合式API的使用技巧
-        url: "#"
-      - name: JavaScript进阶
-        icon: fab fa-js
-        description: JavaScript高级特性解析
-        url: "#"
-      - name: Git使用技巧
-        icon: fab fa-git-alt
-        description: Git常用命令和工作流
-        url: "#"
-      - name: Docker入门
-        icon: fab fa-docker
-        description: Docker基础知识和实践
-        url: "#"
-  - name: 学习笔记
-    icon: fas fa-book
-    sites:
-      - name: React Hooks
-        icon: fab fa-react
-        description: React Hooks最佳实践
-        url: "#"
-      - name: Node.js实战
-        icon: fab fa-node-js
-        description: Node.js服务端开发笔记
-        url: "#" 
+      - name: 用篡改猴脚本刷Bing搜索积分
+        icon: fas fa-search
+        description: 使用篡改猴（Tampermonkey）脚本来自动化获取Bing搜索积分，轻松刷满每日积分上限
+        url: "https://z-z-h.xyz/sop/gemini-bing-points-script.html"
+      - name: 从角色扮演到剧情聊天，翻开AI的另一面
+        icon: fas fa-robot
+        description: 探索AI角色扮演和剧情聊天的可能性，体验AI交互的新维度
+        url: "https://z-z-h.xyz/sop/ai-role-play.html"
+      - name: 如何使用 Cherry Studio
+        icon: fas fa-tools
+        description: Cherry Studio使用指南和技巧分享
+        url: "https://z-z-h.xyz/sop/how-to-use-cherry-studio.html" 
