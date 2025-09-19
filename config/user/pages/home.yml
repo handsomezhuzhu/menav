@@ -13,7 +13,7 @@ categories:
         icon: fab fa-linux
         description: 新的理想型社区
       - name: Google
-        url: https://www.google.com
+        url: https://www.google.com/search?authuser=0&udm=50&aep=25&hl=en&source=searchlabs
         icon: fab fa-google
         description: 全球最大的搜索引擎
       - name: ChatGPT
