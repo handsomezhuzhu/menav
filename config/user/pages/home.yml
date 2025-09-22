@@ -10,8 +10,12 @@ categories:
     sites:
       - name: Linux.do
         url: https://linux.do/
-        icon: fab fa-linux
+        icon: fas fa-comments
         description: 新的理想型社区
+      - name: IDC Flare
+        url: https://idcflare.com/
+        icon: fas fa-comments
+        description: 主机、域名集散地
       - name: Google
         url: https://www.google.com/search?authuser=0&udm=50&aep=25&hl=en&source=searchlabs
         icon: fab fa-google
