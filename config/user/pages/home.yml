@@ -29,9 +29,37 @@ categories:
         icon: fab fa-github
         description: 代码托管平台
       - name: 我的博客
-        url: https://z-z-h.xyz
+        url: https://zhuzihan.com
         icon: fas fa-blog
         description: 个人技术博客
+      - name: 我的博客(线路二)
+        url: https://zzhdsgsss.xyz
+        icon: fas fa-blog
+        description: 个人技术博客（线路二）
+      - name: 我的博客(线路三)
+        url: https://zzh.codes
+        icon: fas fa-blog
+        description: 个人技术博客（线路三）
+      - name: AI API调试工具
+        url: https://api-test.zhuzihan.com
+        icon: fas fa-cogs
+        description: AI API调试工具
+      - name: OpenWebUI
+        url: https://ai.zzhdsgsss.xyz/
+        icon: fas fa-robot
+        description: 对外的在线AI对话
+      - name: New-API
+        url: https://api.zzhdsgsss.xyz
+        icon: fas fa-plug
+        description: 自用的AI接口
+      - name: Nginx Proxy
+        url: https://nginx.zzhdsgsss.xyz/
+        icon: fas fa-network-wired
+        description: 自用Nginx反向代理
+      - name: 1Panel
+        url: https://admin.zzhdsgsss.xyz/
+        icon: fas fa-tachometer-alt
+        description: 自用服务器面板
   - name: 学习资源
     icon: fas fa-graduation-cap
     sites:
